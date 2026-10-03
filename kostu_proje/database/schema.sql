@@ -1,7 +1,6 @@
 -- Veritabanı adı: kostu_db
 -- Bu SQL dosyası, proje için gerekli temel tabloları oluşturur.
--- Tüm yorum satırları Türkçe ile yazılmıştır.
--- Bu proje için en sade ve anlaşılır veri modeli kullanılmıştır.
+
 
 CREATE DATABASE IF NOT EXISTS kostu_db;
 USE kostu_db;
