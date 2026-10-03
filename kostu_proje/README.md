@@ -29,12 +29,3 @@ KOSTÜ, öğrenci kulüpleri ve etkinlik süreçlerini daha düzenli, güvenli v
 4. Frontend Entegrasyonu
 5. Test ve 100 Hata Raporlama
 
-## Notlar
-
-- Bu proje başlangıç seviyesi için sade ve anlaşılır bir yapı üzerine kurulmuştur.
-- Daha sonraki aşamalarda login, session yönetimi, rol kontrolü ve CRUD işlemleri geliştirilecektir.
-- Hoca tarafından anlatılacak olan kod yapısı, başlangıç ve orta seviye düzeyi göz önünde bulundurularak hazırlanmıştır.
-
-## Geliştirici
-
-Bu proje, Web Tasarımı dersi kapsamında temel PHP ve MySQL bazlı uygulama geliştirme amacıyla tasarlanmıştır.
